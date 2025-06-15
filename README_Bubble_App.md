@@ -10,7 +10,7 @@ This Streamlit app allows metallurgists and flotation researchers to analyze bub
 - 📥 Download CSV of bubble sizes (µm)
 
 ## 🔧 How to Use
-1. Open the app in your browser (e.g., https://yourusername-bubble-size-analyzer.streamlit.app)
+1. Open the app in your browser (e.g., https://annaheric-bubble-size-analyzer.streamlit.app)
 2. Enter the calibration value (Microns per Pixel)
 3. Adjust the "Exclude Bubbles Larger Than (µm)" slider to remove outliers
 4. Upload a froth image from flotation circuit
